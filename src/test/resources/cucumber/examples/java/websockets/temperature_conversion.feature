@@ -1,9 +1,6 @@
 Feature: Temperature conversion
   I'm adding a description
-  sdkjhsdf
-
-something else
-So we are collabora  # https://google.com
+  Hei Tomas
 
 	Scenario: 0 Celcius to Fahrenheit
     Given I am on the front page
