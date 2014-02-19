@@ -1,4 +1,3 @@
-#
 Feature: Temperature conversion
   I'm adding a description
   Hei Tomas
