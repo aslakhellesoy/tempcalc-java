@@ -1,6 +1,8 @@
 Feature: Temperature conversion
   I'm adding a description
-  Hei Tomas
+  
+  Scenario: Hello
+    Given I enter 0 celcius
 
 	Scenario: 0 Celcius to Fahrenheit
     Given I am on the front page
